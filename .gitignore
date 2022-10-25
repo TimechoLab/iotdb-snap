@@ -1,0 +1,8 @@
+*.snap
+*.tar.gz
+__pycache__/
+parts/
+prime/
+stage/
+venv/
+.vscode/
