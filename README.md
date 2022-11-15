@@ -28,13 +28,7 @@ git clone https://github.com/TimechoLab/iotdb-snap.git
 ./install-env.sh
 ```
 
-### 3. 安装虚拟环境
-
-```shell
-./install-venv.sh
-```
-
-### 4. 打包
+### 3. 打包
 
 由于JRE会根据CPU架构不同，提供不同的版本，所以我们也提供了amd64与arm64两种架构的安装包打包方式。
 
